@@ -1,2 +1,2 @@
 # lumimodel
-The LHC luminosity model
+The LHC luminosity model.
