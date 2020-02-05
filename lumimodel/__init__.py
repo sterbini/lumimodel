@@ -1,0 +1,3 @@
+'''
+The LHC luminosity model.
+'''
