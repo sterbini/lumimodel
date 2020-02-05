@@ -7,5 +7,5 @@ setup(name='lumimodel',
       author='Guido STERBINI',
       author_email='guido.sterbini@cern.ch',
       license='MIT',
-      packages=['luminodel'],
+      packages=['lumimodel'],
       zip_safe=False)
