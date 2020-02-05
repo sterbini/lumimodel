@@ -24,10 +24,11 @@ or to upgrade a fork of the project
 pip install --upgrade --user git+https://github.com/sterbini/lumimodel.git@fork_name
 ```
 
-# Example 
+## Example 
 
-```
+Here you are a simple example.
+
+``` python
 from lumimodel import luminosity as lm
 lm.get_bunch_luminosity()
-
 ```
